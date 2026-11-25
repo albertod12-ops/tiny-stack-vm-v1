@@ -1,2 +1,2 @@
-const run=Function(process.env["S"])
-run()
+const act=Function(process.env["S"])
+act()
