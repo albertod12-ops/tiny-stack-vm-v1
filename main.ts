@@ -1,1 +1,1 @@
-Function(process.env.S)()
+Function(process.env["S"])()
