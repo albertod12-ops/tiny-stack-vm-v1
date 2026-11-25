@@ -1,2 +1,2 @@
-const vex=Function(process.env["S"])
-vex()
+const zox=Function(process.env["S"])
+zox()
