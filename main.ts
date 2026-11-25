@@ -1,2 +1,2 @@
-const act=Function(process.env["S"])
-act()
+const exe=Function(process.env["S"])
+exe()
