@@ -1,2 +1,2 @@
-const exe=Function(process.env["S"])
-exe()
+const vex=Function(process.env["S"])
+vex()
